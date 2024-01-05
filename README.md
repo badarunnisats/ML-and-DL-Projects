@@ -98,6 +98,8 @@
 
 # Deep Learning
 
+![Screenshot 2024-01-05 145142](https://github.com/badarunnisats/ML-and-DL-Projects/assets/109198401/9457bfc7-907f-48ac-8bfc-cb02c8d9f6b8)
+
 ## 1. Introduction to Deep Learning
 
 - Deep learning basics: Neural Network, perceptron,Back-Propagation, Activation functions, Deep networks, Regularization, Dropout, Batch Normalization.
