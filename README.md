@@ -61,3 +61,50 @@
 ## 8. Project
 
 - Create a model using different algorithms for a given dataset and choose the best algorithm among them.
+
+
+## 9. Unsupervised Learning : Clustering
+
+- Understanding clustering analysis and its use in machine learning
+- Building k-means and hierarchical clustering models
+- Evaluating model performance and making predictions
+
+  
+## 10. Project
+
+- Create a model using different algorithms and predict using the best algorithm among them.
+
+
+ ## 11. Unsupervised Learning - Dimensionality Reduction
+ 
+- Understanding dimensionality reduction and its use in machine learning
+- Building principal component analysis (PCA) and t-SNE models
+- Evaluating model performance and making predictions.
+
+  
+## 12. Natural Language Processing
+
+- Basic concept of NLP
+- Data Cleaning: remove punctuations,tokenization, remove stop words,stemming, lemmatization.
+- Packages of NLP : NLTK (Natural Language ToolKit), Pattern, TextBlob
+- Vectorization techniques: Bag of Words, TF-IDF
+
+## 13. Project
+
+- For the given paragraph do the following: word_tokenise and sent_tokenise, using stop words eliminate most common words and do stemming and lemmatization.
+
+
+# Deep Learning
+
+## 1. Introduction to Deep Learning
+
+- Deep learning basics: Neural Network, perceptron,Back-Propagation, Activation functions, Deep networks, Regularization, Dropout, Batch Normalization.
+- Python libraries for Deep learning : Keras, Tensor flow.
+- Convolutional neural networks:Introduction to CNNs, Convolution,Correlation, FIltering.
+- CNN architectures
+- Compiling and fitting a model
+- Advanced Deep architectures:Recurrent Neural networks(RNNs), Advanced RNN: LSTM
+
+## 2. Project
+
+- Create a deep network model using CNN and calculate its accuracy and loss values.
