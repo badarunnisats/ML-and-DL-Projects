@@ -1,5 +1,7 @@
 # Machine Learning
 
+![22](https://github.com/badarunnisats/ML-and-DL-Projects/assets/109198401/01b34fb4-e4fc-45bb-bf85-cd5cb6a690e7)
+
 ## 1. Probability & Statistics 
 - Definition of probability
 - conditional probability
