@@ -34,7 +34,8 @@
 
 - Use a dataset then remove NaN values and apply label encoder and scaling methods.
 
-  ## 5. Supervised Learning : Regression
+  
+## 5. Supervised Learning : Regression
   
 - Understanding regression analysis and its use in machine learning
 - Building linear regression models
